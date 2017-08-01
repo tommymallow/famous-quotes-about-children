@@ -1,0 +1,32 @@
+    </div>
+</div> 
+    <footer>
+      <div class="yui3-g">
+         <div class="yui3-u-1">
+            <p class = "footer">
+               © 2017 Compassion International. All Rights Reserved <br>
+               (800) 336-7676 <br>
+               Compassion International, Inc. is a registered 501 (c)(3) non profit organization.  <br>
+               All donations in the United States are tax-deductible in full or part.  <br>
+               Compassion and Compassion International are Registered Trademarks of Compassion International, Inc.
+            </p>
+        </div>
+     </div>
+   </footer>
+<amp-analytics type="googleanalytics">
+    <script type="application/json">
+        {
+        "vars": {
+        "account": "UA-3632652-7"
+        },
+        "triggers": {
+        "trackPageview": {
+        "on": "visible",
+        "request": "pageview"
+        }
+        }
+        }
+    </script>
+</amp-analytics>
+</body>
+</html>
